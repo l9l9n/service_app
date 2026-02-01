@@ -5,3 +5,4 @@ psycopg2-binary==2.9.11
 sqlparse==0.5.5
 celery[redis]==5.3.1
 flower==2.0.0
+celery-singleton==0.3.1
